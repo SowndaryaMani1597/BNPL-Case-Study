@@ -1,4 +1,4 @@
-# Buy Now Pay Later (BNPL): Case Study**
+# Buy Now Pay Later (BNPL): Case Study
 
 ## **Overview**
 This repository contains a qualitative case study that examines the rapid rise of Buy Now, Pay Later (BNPL) services. The study focuses on understanding the BNPL business model, its growth trajectory, and the impact it has had on consumer spending habits and credit risk in the fintech sector.
